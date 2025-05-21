@@ -1,4 +1,4 @@
-let isPhoneRequired = false
+//let isPhoneRequired = false - breaking code to teste CI
 
 const phoneLabelSpan = document.querySelector('.phone-label-span')
 const phoneField = document.getElementById('phone')
